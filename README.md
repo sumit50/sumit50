@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sumit (sumii)
+# 👋 Hi, I'm Sumit Sharma
 
 I’m a **fresher developer** with a strong curiosity for how things work on the web.  
 Currently learning and building projects to improve my skills every day.
